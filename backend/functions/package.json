@@ -1,0 +1,15 @@
+{
+  "name": "ledgr-backend",
+  "version": "1.0.0",
+  "description": "Ledgr Backend Cloud Function for Gemini Multimodal Bookkeeping",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
